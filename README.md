@@ -54,6 +54,15 @@ git push origin master
 
 6. 在 read the docs 中连接 github 托管该项目
 
+## 其它：
+1. 更改默认主题
+
+修改 conf.py 
+
+```
+html_theme = 'sphinx_rtd_theme'
+```
+
 ## 参考资料
 * 如何用 ReadtheDocs、Sphinx 快速搭建写书环境（入门）  
 http://www.jianshu.com/p/78e9e1b8553a
